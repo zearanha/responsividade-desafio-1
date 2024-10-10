@@ -1,0 +1,79 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 44px 0 144px 76px;
+}
+
+.link-header{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(152, 157, 156, 1);
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header{
+    background: rgba(102, 90, 225, 1);
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+}
+
+.logo-img{
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 70.7px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #515151;
+    width: 515px;
+}
+
+.button-main{
+    background-color: #adff00;
+    border-radius: 25px;
+    width: 239px;
+    right: 64px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
